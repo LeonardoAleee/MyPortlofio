@@ -41,4 +41,4 @@ $: localStorage.colorScheme = colorScheme;
     </select>
 </label>
  
-<slot/>
+<slot/> 
